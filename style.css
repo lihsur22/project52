@@ -1,0 +1,44 @@
+.headItem {
+    background-color: rgb(0,0,0);
+    color:whitesmoke;
+    display: flex;
+    font-family:Arial, Helvetica, sans-serif;
+    justify-content: space-between;
+}
+
+.head {
+    border: solid;
+    border-width: 10px;
+}
+
+.box {
+    display : flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 50px;
+}
+
+.subItem ul {
+    padding: 10px;
+}
+
+.subItem img{
+    padding:30px;
+    background-color: rgb(85, 85, 85);
+}
+
+.subItem ul {
+    font-size: 20px;
+}
+
+.subItem {
+    border:solid;
+    padding:20px;
+    background-color: whitesmoke;
+}
+
+
+
+.menu{
+    border:solid;
+}
