@@ -58,6 +58,11 @@
     box-shadow: -5px 5px 5px 5px rgb(85, 85, 85);
 }
 
+.subItem:hover img{
+    /*padding:30px;*/
+    box-shadow: -5px 5px 5px 5px rgb(0, 0, 0);
+}
+
 .subItem ul {
     font-size: 20px;
 }
